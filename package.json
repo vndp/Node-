@@ -2,13 +2,21 @@
   "name": "node",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "console.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vndp/Node.js.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vndp/Node.js/issues"
+  },
+  "homepage": "https://github.com/vndp/Node.js#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "cfonts": "^3.1.1"
   }
 }
